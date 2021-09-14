@@ -255,3 +255,4 @@ header = 'No' # 'Yes' or 'No'
 
 A = TATA_Scrape(page_list, write, Excel_file, header, pdf_file)         
 B1 = A.entire_process()
+B1
